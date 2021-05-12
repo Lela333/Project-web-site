@@ -1,0 +1,5 @@
+@media( max-width:1130px){
+ .box-wrapper .anim3 {
+      display: none;
+ }
+}
